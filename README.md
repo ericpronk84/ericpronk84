@@ -13,6 +13,8 @@ As an experienced software engineer with a relentless drive for tackling complex
 - **PHP**
 - **React**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericpronk84)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Databases
 - **MySQL**
 - **MongoDB**
