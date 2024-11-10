@@ -9,6 +9,7 @@ As an experienced software engineer with a relentless drive for tackling complex
 ### Programming Languages
 - **C**
 - **Java**
+- **Python**
 - **Node.js**
 - **PHP**
 - **React**
